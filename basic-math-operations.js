@@ -4,3 +4,5 @@
 function add(a+b) {return a+b}
 // Function, subtract
 function subtract(a-b) {return a-b}
+// Function, multiply
+function multiply(a*b) {return a*b}
