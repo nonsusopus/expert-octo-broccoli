@@ -6,3 +6,5 @@ function add(a+b) {return a+b}
 function subtract(a-b) {return a-b}
 // Function, multiply
 function multiply(a*b) {return a*b}
+// Function, divide
+function divide(a/b) {return a/b}
